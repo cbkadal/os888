@@ -1,5 +1,5 @@
 title:       "This Is How Me Do It!"
-version:     "0014b---17-Feb-2021"
+version:     "0015---17-Feb-2021"
 copyright:   "2021-2021"
 description: >- 
   This Is How Me Do It!
@@ -7,16 +7,16 @@ description: >-
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
 google_analytics: "UA-89852122-6"
-author:           "J. Walker"
-address:          "Box 7, Mawitaan, Bangalla."
+author:           "Cicak Bin Kadal"
+address:          "Pamulang"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://doit.vlsm.org/"
+urlweb:           "https://cbkadal.github.io/os888/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/doit"
-urlghpage:        "https://doit.vlsm.org/"
+urlgithub:        "https://github.com/cbkadal/os888/"
+urlghpage:        "https://cbkadal.github.io/os888/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
